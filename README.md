@@ -2,6 +2,9 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
+# Live 
+Site live at : https://sorting-visualizer-dhruv.vercel.app/
+
 ## Purpose
 
 I made this sorting visualizer web application to improve my skills more in
